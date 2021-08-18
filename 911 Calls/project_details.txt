@@ -12,6 +12,26 @@ The data contains the following fields:
 * addr: String variable, Address
 * e: String variable, Dummy variable (always 1)
 
+
+IMPORTANT NOTE : Project includes Interactive Plots as well, which may not be visible directly on GitHub.
+                 Kindly download and run the Jupyter notebook with the required python modules installed.
+
+
 INCLUDED : Data Subset
 
 Full Dataset : https://www.kaggle.com/mchirico/montcoalert   (Emergency - 911 Calls)
+
+
+Visualization Libraries Used:
+
+1. MatplotLib
+2. Seaborn
+3. Plotly (offline) and Cufflinks  (Requires you to run the Jupyter notebook on your computer
+                                    with plotly and cufflink modules installed)
+
+
+Module install commands:
+
+pip install plotly
+pip install chart-studio.plotly
+pip install cufflinks
