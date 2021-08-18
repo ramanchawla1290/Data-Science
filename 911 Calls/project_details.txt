@@ -11,3 +11,7 @@ The data contains the following fields:
 * twp: String variable, Township
 * addr: String variable, Address
 * e: String variable, Dummy variable (always 1)
+
+INCLUDED : Data Subset
+
+Full Dataset : https://www.kaggle.com/mchirico/montcoalert   (Emergency - 911 Calls)
